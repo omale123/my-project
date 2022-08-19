@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.omaleinstitution.com.ng</title>
+</head>
+<body bgcolor="purple">
+<center>
+
+<form action="onlick" method="post">
+<h1 style="color:#ffd700;"> Registration Form</h1>
+<div style="background-color:#3eb489; width:30%;">
+<p>
+<label for="name">Name</label><br>
+<input type="text" name="text" id="name">
+</p>
+
+<p>
+<label for="pass">Password</label><br>
+<input type="password" name="password" id="pass">
+</p>
+
+<p>
+<label for="email">Email</label><br>
+<input type="text" name="email adress" id="email">
+</p>
+
+<p>
+<label for="no">Phone No</label><br>
+<input type="tel" name="tel" id="no">
+</p>
+
+<p>
+<label>Gender</label><br>
+<input type="radio" name="radio" value="male">
+<label>Male</label><br>
+
+<input type="radio" name="radio" value="female">
+<label>female</label>
+
+<p>
+<label>upload your document</label>
+<input type="file" name="file">
+</p>
+<input type="submit" name="Submit" value="Submit">
+<input type="reset" name="Reset" value="Reset">
+
+<a href="index.html" style="margin:20px; color:red;">Back</a>
+</div>
+</form>
+</center>
+</body>
+</html> 
