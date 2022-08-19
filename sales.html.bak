@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>www.omaleinstitution.com.ng</title>
+</head>
+
+<body>
+<!--start of the header div-->
+
+<p>  good to go now</p>
+<div style="border:1px solid black; display:flex; felex-direction:rows; justify-content:space-around;">
+
+
+
+<div style="width:35%; border:0px solid black; background-color:orange;">
+<img  src="log.jpeg" style="width:9%; float:left;">
+<span style="color:blue; margin-left:10px;">
+Omale
+Institution
+</span><br>
+<span style="color:red; margin-left:10px;">
+<i>your future can be achieved if you believe</i>
+</span>
+</div>
+
+
+
+<div style="width:35%; border:0px solid red; background-color:blue; color:red; style-list-type:none;">
+<h1 style="font-size:20px; margin-left:100px; color:red;">Welcome To Omale Institution</h1>
+</div>
+
+<div style="width:30%; background-color:blue; color:red;">
+<p align="right"style="color:orange; justify-content:space-between; display:flex; style-type-list:none; ">
+<a href="aboutus.html">About Us</a>
+<a href="contactus.html">Contact Us</a>
+<a href="#sl">Student Lodge</a>
+<a href="apply.html">Apply Here</a>
+</p>
+</div>
+</div>
+<!--end of the header div-->
+
+<h1 align="center" style="color:green; margin:0px;">Faculty Of Science</h1>
+<hr style="width:20%; font-size:4px; background-color:red; height:2px; margin-top:0px;">
+
+<div style="display:flex; border:0px solid black;">
+<div style="width:30%; background-color:white; padding-left:10px;">
+<h4  align="center" style="color:red; margin:0px;"><i><b>Welcome</b></i></h4>
+<p>
+You are welcome to science department<br>
+in this department we are fully open<br>
+to recieve everyone who has thesame Goal,<br>
+and the potentials, to be a medical Doctor<br>
+factor to be considered before applying for<br>
+Medical science in Omale institution, <b>such as<br>
+state of residency, Weac, Jamb scores, loaction, <br></b>
+
+
+
+</p>
+
+</div>
+<div style="width:50%; display:flex;">
+<img src="sss.jpg" style="height:250px; width:50%; margin:0px;">
+<img src="sss.jpg" style="height:250px; width:50%; margin:0px;">
+</div>
+<div style="width:30%; background-color:orange; color:red; padding-left:18px;">
+
+<h4  align="center" style="color:blue; margin:0px;"><i><b>Courses Under Faculty Of Science</b></i></h4>
+<p>
+1. (medical) Biology<br>
+2. Chemistry<br>
+3. Physics & Astronomy<br>
+4. Computer Science<br>
+5. Medicine & Surgery<br>
+6. Pharmacy<br>
+7. Engineering<br>
+8. Microbiology<br>
+9. Nursing
+</p>
+</div>
+</div>
+</div>
+
+<div style="width:100%; background-color:green; height:20px; color:orange;">
+<marquee>Admission Is Going On now Please Apply</marquee>
+</div>
+
+<!--faculty of art-->
+<h1 align="center" style="color:red; margin:0px;"> Faculty Of Art</h1>
+<hr  style="width:15%; background-color:red;  height:2px;">
+
+<div style="border:0px solid black; display:flex; flex-direction:rows;">
+<div style="width:30%; background-color:white; padding-left:10px;">
+<h3  align="center" style="color:green; margin:0px;"><i>Welcome</i></h3>
+<p>
+
+You are welcome to Art department<br>
+in this department we are fully open<br>
+to recieve everyone who has thesame Goal,<br>
+and the potentials, to be an Actor<br>
+factor to be considered before applying for<br>
+an Art course in Omale institution, <b>such as<br>
+state of residency, Weac, Jamb scores, loaction, <br></b>
+</p>
+</div>
+<div style="width:50%; height:200px; display:flex;">
+<img src="gods1.jpeg" style="width:50%; height:200px;">
+<img src="gods2.jpeg" style="width:50%; height:200px; padding-left:5px;">
+</div>
+<div style="width:20%; background-color:white; height:200px; padding-left:10px;">
+<h3 align="center" style="margin:0px; color:red;"><i>Courses Under Faculty Of Art</i></h3>
+<p>
+1. English and Literature<br>
+2. Foreign Languages<br>
+3. History and International Studies<br>
+4. Philosophy<br>
+5. Mass Communication<br>
+6. Theatre Arts<br>
+7. Religion<br>
+9. Linguistics Studies
+</p>
+</div>
+
+</div>
+<!---student lodge-->
+
+<h1  id="sl" align="center" style="color:green; margin:0px;"> Student Lodge</h1>
+
+<div style="display:flex; height:250px; border:0px solid black;">
+<div style="width:40%; background-color:red;">
+<img src="lodge1.jpg" style="height:250px; width:100%;">
+</div>
+<div style="width:40%; background-color:blue;">
+<img src="lodge2.jpg" style="height:250px; width:100%;">
+</div>
+<div style="width:40%; background-color:yellow;">
+<img src="lodge3.jpg" style="height:250px; width:100%;">
+</div>
+
+</div>
+
+<div style="display:flex; height:250px;">
+<div style="background-color:blue; width:30%; height:250px;">
+<img src="lodge4.jpg" style="height:250px; width:100%;">
+
+</div>
+<div style="width:40%; height:250px; background-color:red;">
+<img src="lodge5.jpg" style="height:250px; width:100%;">
+
+
+</div>
+<div style="height:250px; background-color:green; width:30%;">
+<img src="lodge6.jpg" style="height:250px; width:100%;">
+</div>
+
+</div>
+
+<div style="background-color:green;">
+<footer align="center">
+<i>
+Email: omalestitution@gmail.com<br>
+Phone No: +2348078215022<br>
+Address: no 93 off Aba Road Rumukurushi Porthar Court<br>
+River state Nigeria
+</i>
+</footer>
+</div>
+
+</body>
+</html>
